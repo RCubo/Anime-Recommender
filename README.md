@@ -41,3 +41,5 @@ result.csv
     Episodes - number of episodes of the anime
     
 It should be noted that only 5-6 animes will be produced by each user.
+
+Dataset from myanimelist available at: https://www.kaggle.com/CooperUnion/anime-recommendations-database
